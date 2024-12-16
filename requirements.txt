@@ -1,0 +1,2 @@
+# Windows: pip install pandas geopandas shapely pyproj matplotlib numpy openpyxl
+
